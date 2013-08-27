@@ -3,6 +3,7 @@ Slide Show - An application that shows various
 pictures in a slideshow format
 
 Dependencies: collections.deque for class SlideShow
+time and pyglet to utilize SlideShow to demo
 """
 
 from collections import deque
